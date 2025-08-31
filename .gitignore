@@ -1,0 +1,9 @@
+bin/
+build/
+.vscode/
+.idea/
+bin
+build
+.vscode
+.idea
+.vs
