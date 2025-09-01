@@ -4,7 +4,7 @@
 
 const int SCR_WIDTH = 1024;
 const int SCR_HEIGHT = 640;
-const int NUM_TRIANGLES = 3;
+const int NUM_TRIANGLES = 24;
 
 int main()
 {
